@@ -22,3 +22,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.kelani.robolectrictester", appContext.packageName)
     }
 }
+
